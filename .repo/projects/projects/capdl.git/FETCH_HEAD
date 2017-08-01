@@ -1,0 +1,9 @@
+6bc3c424a423f794f6b994c5929499e6af68aa72		branch '3.0.x-compatible' of https://github.com/seL4/capdl
+986c73135771d88bf7911bd36785ef5da866eac3		branch '3.1.x-compatible' of https://github.com/seL4/capdl
+a07d1e7a332697d773e1d7b4e7d9c7a5c852d675		branch '3.2.x-compatible' of https://github.com/seL4/capdl
+29737c02a3ad0b5e51a0ea69977cbd304bd01d86		branch '4.0.x-compatible' of https://github.com/seL4/capdl
+f26506896a2128f7f5008818f8e8f488087d2aae		branch '5.2.x-compatible' of https://github.com/seL4/capdl
+65a9cf2ad5c91dd7e30788363ffc9a45966fd0a1		branch '6.0.x-compatible' of https://github.com/seL4/capdl
+b95aee99e24484aad645b0998b58992600e3f1fc		branch 'master' of https://github.com/seL4/capdl
+8ee4134903ebcde124fd8728dbe48b510be0bcb2		branch 'sc' of https://github.com/seL4/capdl
+8335d478a2c91190d519a55c344d9e912ed9ab2d		branch 'vm_x86' of https://github.com/seL4/capdl

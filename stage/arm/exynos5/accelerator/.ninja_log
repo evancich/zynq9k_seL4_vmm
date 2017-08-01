@@ -1,0 +1,6 @@
+# ninja log v5
+0	15	0	include/select_inputs.h	86d2236cc3fe612e
+1	15	0	include/select_output.h	7c86318dd15bd5aa
+2	55	0	include/version.h	f7e5a678c8163ae1
+55	1151	0	CMakeFiles/camkes-accelerator.dir/accelerator.c.o	af2b95fd17e04258
+1151	1429	0	camkes-accelerator	d19e7f153099cbc

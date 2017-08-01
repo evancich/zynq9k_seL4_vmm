@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+[filter "lfs"]
+	smudge = git-lfs smudge --skip -- %f
+[remote "sel4proj"]
+	url = https://github.com/sel4proj/global-components.git
+	projectname = global-components.git
+	fetch = +refs/heads/*:refs/remotes/sel4proj/*

@@ -1,0 +1,1 @@
+0000000000000000000000000000000000000000 82878b9364475c96756be929e3c174f8bcb8ca75 nick <nevancich@i-a-i.com> 1501608768 -0700	fetch --progress seL4 --tags +refs/heads/*:refs/remotes/seL4/* +refs/heads/master:refs/remotes/seL4/master: storing head

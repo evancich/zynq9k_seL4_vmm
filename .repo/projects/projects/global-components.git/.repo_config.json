@@ -1,0 +1,20 @@
+{
+  "core.filemode": [
+    "true"
+  ], 
+  "core.repositoryformatversion": [
+    "0"
+  ], 
+  "remote.sel4proj.fetch": [
+    "+refs/heads/*:refs/remotes/sel4proj/*"
+  ], 
+  "remote.sel4proj.projectname": [
+    "global-components.git"
+  ], 
+  "filter.lfs.smudge": [
+    "git-lfs smudge --skip -- %f"
+  ], 
+  "remote.sel4proj.url": [
+    "https://github.com/sel4proj/global-components.git"
+  ]
+}

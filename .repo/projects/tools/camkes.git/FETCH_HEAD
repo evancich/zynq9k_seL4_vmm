@@ -1,0 +1,12 @@
+82878b9364475c96756be929e3c174f8bcb8ca75		branch 'master' of https://github.com/seL4/camkes-tool
+9599db4585f3e631d585b3ea92b8c7d1ce4c4d9c		branch 'next' of https://github.com/seL4/camkes-tool
+1464d32b32f24dceb184dcff6cd39de74be221a9		branch 'sc' of https://github.com/seL4/camkes-tool
+baba1aa979ee24ede341eddce58732ce66e68e70		branch 'vm_x86' of https://github.com/seL4/camkes-tool
+9a2ab90dc97c759bd7f4a30096eef835a792103d	not-for-merge	tag '2.0.0' of https://github.com/seL4/camkes-tool
+b91c7aa33cd6f2a840dc7cd3cc6ce16264e12642	not-for-merge	tag 'camkes-02-01--2014-07-29' of https://github.com/seL4/camkes-tool
+669f389ca33997589d556f14902b44e8a1b487cd	not-for-merge	tag 'camkes-2.1.0' of https://github.com/seL4/camkes-tool
+e7729af31f4f37ecfaa5924acc548072dd743d80	not-for-merge	tag 'camkes-2.2.0' of https://github.com/seL4/camkes-tool
+1c6294184cb0e4c088507792b27a6ed13a6ac92d	not-for-merge	tag 'camkes-2.3.0' of https://github.com/seL4/camkes-tool
+e2535843e6d10976ff025b19fb7a7d22bb047384	not-for-merge	tag 'camkes-2.3.1' of https://github.com/seL4/camkes-tool
+40068d3fd69209c5fcccc9ec6c3976e9e6342230	not-for-merge	tag 'camkes-3.0.0' of https://github.com/seL4/camkes-tool
+141ecc82c4a2816861926d2ae02404f75d247628	not-for-merge	tag 'camkes-3.1.0' of https://github.com/seL4/camkes-tool

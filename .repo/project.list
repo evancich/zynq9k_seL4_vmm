@@ -1,0 +1,11 @@
+kernel
+libs/libmuslc
+projects/capdl
+projects/global-components
+projects/projects_libs
+projects/seL4_libs
+projects/seL4_projects_libs
+projects/seL4_tools
+projects/util_libs
+projects/vm
+tools/camkes

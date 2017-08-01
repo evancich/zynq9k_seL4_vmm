@@ -1,0 +1,1 @@
+0000000000000000000000000000000000000000 75b3bbafe0e1cc80b61c20d9eb2e91d5633bd966 nick <nevancich@i-a-i.com> 1501608696 -0700	fetch --progress origin --tags +refs/heads/*:refs/remotes/origin/* +refs/heads/master:refs/remotes/origin/master: storing head
